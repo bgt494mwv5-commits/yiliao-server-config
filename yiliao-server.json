@@ -1,6 +1,6 @@
 {
   "schema": "yiliao.server.v1",
-  "publicIP": "58.45.109.228",
+  "publicIP": "113.222.60.108",
   "httpPort": 18080,
   "httpsPort": 18443,
   "stunPort": 3478
